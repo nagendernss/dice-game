@@ -1,8 +1,8 @@
-let name1=prompt("Enter player 1 name");
-let name2=prompt("Enter player 2 name");
+// let name1=prompt("Enter player 1 name");
+// let name2=prompt("Enter player 2 name");
 
-document.querySelectorAll("p")[0].innerText=name1;
-document.querySelectorAll("p")[1].innerText=name2;
+// document.querySelectorAll("p")[0].innerText=name1;
+// document.querySelectorAll("p")[1].innerText=name2;
 
 var randomnumber1=Math.random();
 randomnumber1*=6;
